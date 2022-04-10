@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leonardo Almeida</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
+
+<div align="center">
+<imgalt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leoalmeida6&label=Profile%20views&color=0e75b6&style=flat" alt="leoalmeida6" /> </p>
 

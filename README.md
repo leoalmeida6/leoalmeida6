@@ -2,14 +2,14 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <div align="center">
-<imgalt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
+<img alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leoalmeida6&label=Profile%20views&color=0e75b6&style=flat" alt="leoalmeida6" /> </p>
 
 <div align="center">
   <a href="https://github.com/leoalmeida6">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoalmeida6&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoalmeida6&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
@@ -33,10 +33,3 @@
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoalmeida6&show_icons=true&locale=en" alt="leoalmeida6" /></p>
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-
-<div align="center">
-  <a href="https://github.com/leoalmeida6">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoalmeida6&layout=compact&langs_count=7&theme=dracula"/>
-</div>

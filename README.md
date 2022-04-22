@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **me**
 
-- 🌱 I’m currently learning **Java and Spring for backend and HTML5, CSS3 and JS for front end.**
+- 🌱 I’m currently learning **Java and Spring for backend and HTML5, CSS3 and JS for front end.
 
 - 👨‍💻 All of my projects are available at [https://github.com/leoalmeida6](https://github.com/leoalmeida6)
 

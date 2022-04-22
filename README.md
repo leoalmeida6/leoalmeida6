@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leonardo Santos Almeida</h1>
+<h1 align="center">Hi 👋, I'm Leonardo Almeida</h1>
 <h3 align="center">Desenvolvedor Fullstack em formação | DevInHouse (Java/Angular) | Análise e Desenvolvimento de Sistemas (Jun/2017)</h3>
 
 <div align="center">

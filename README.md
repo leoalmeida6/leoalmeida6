@@ -18,7 +18,7 @@
 <div>
 - 🔭 I’m currently working on **me** <br>
 - 🌱 I’m currently learning **Java and Spring for backend and HTML5, CSS3 and JS for front end.<br>
-- 👨‍💻 All of my projects are available at [https://github.com/leoalmeida6](https://github.com/leoalmeida6)
+- 👨‍💻 All of my projects are available at https://github.com/leoalmeida6
 </div>
 
 <h3 align="left">Connect with me:</h3>

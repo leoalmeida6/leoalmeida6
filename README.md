@@ -12,11 +12,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoalmeida6&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoalmeida6&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-- 🔭 I’m currently working on **me**
-
-- 🌱 I’m currently learning **Java and Spring for backend and HTML5, CSS3 and JS for front end.
+  
+<br>
+  
+<div>
+- 🔭 I’m currently working on **me** <br>
+- 🌱 I’m currently learning **Java and Spring for backend and HTML5, CSS3 and JS for front end.<br>
 - 👨‍💻 All of my projects are available at [https://github.com/leoalmeida6](https://github.com/leoalmeida6)
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
